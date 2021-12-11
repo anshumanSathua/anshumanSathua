@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there friends 👋
 
 <!--
 **anshu-21/anshu-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
