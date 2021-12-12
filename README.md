@@ -1,8 +1,8 @@
-![Learner](https://pbs.twimg.com/profile_banners/1413889697659584514/1636994215/1080x360)
+![Banner](https://pbs.twimg.com/profile_banners/1413889697659584514/1636994215/1080x360)
 
 ### Hi there 👋
 
-I'm Anshu from India, and i really enjoy learning new things about tech in general. Currently i'm working on starting my career in tech. I've some prior knowledge in java but for a fresh start i've started learning c++ and i'm documenting it on twitter. You can check out my twitter at twitter.com/i_m_anshu_. After that i want to get into devlopment and contribute to the open source 
+I'm Anshu from India, and i really enjoy learning new things about tech in general. Currently i'm working on starting my career in tech. I've some prior knowledge in java but for a fresh start i've started learning c++ and i'm documenting it on twitter. You can check out my twitter at twitter.com/i_m_anshu_. After that i want to get into devlopment and contribute to the open source. 
 
 Skills: C++/HTML/CSS
 
