@@ -1,4 +1,4 @@
-![Banner](https://pbs.twimg.com/profile_banners/1413889697659584514/1636994215/1080x360)
+![Banner](https://pbs.twimg.com/profile_banners/1413889697659584514/1641570849/1500x500)
 
 ### Hi there 👋
 
