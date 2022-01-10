@@ -6,8 +6,8 @@ I'm Anshu from India, and i really enjoy learning new things about tech in gener
 
 Skills: C++/HTML/CSS
 
-- 🌱 I’m currently learning C++ 
-- 🏆 future goal is to learn web development
+- 🌱 I’m currently learning Web Devlopment  
+- 🏆 future goal is to get into opensource communities and explore things that i'm passionate about.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anshu-21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/anshu21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/i_m_anshu_) 
