@@ -2,7 +2,7 @@
 
 ### Hey there!👋
 
-I'm Anshuman Sathua a developer. I really enjoy learning new things about tech in general. I like how people are doing such amazing works in tech & someday i wanna be like those people. Thanks for dropping by have a good day
+I'm Anshuman Sathua a developer. I really enjoy learning new things about tech in general. I like how people are doing such amazing works in tech & someday i wanna be like those people. Thanks for dropping by have a good day😄
 
 Skills: C++/HTML/CSS/JavaScript
 
