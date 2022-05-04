@@ -1,10 +1,10 @@
 ![Banner](https://pbs.twimg.com/profile_banners/1413889697659584514/1641570849/1500x500)
 
-### Hi there 👋
+### Hey there!👋
 
-I'm Anshu from India, and i really enjoy learning new things about tech in general. Currently i'm working on starting my career in tech. I've some prior knowledge in programing and i'm documenting rest of th journy on twitter. You can check out my twitter at twitter.com/i_m_anshu_. After that i want to get into devlopment and contribute to the open source. 
+I'm Anshuman Sathua a developer. I really enjoy learning new things about tech in general. I like how people are doing such amazing works in tech & someday i wanna be like those people. Thanks for dropping by have a good day
 
-Skills: C++/HTML/CSS
+Skills: C++/HTML/CSS/JavaScript
 
 - 🌱 I’m currently learning Web Devlopment  
 - 🏆 future goal is to get into opensource communities and explore things that i'm passionate about.
