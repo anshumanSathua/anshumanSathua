@@ -1,6 +1,6 @@
 ![Banner](https://pbs.twimg.com/profile_banners/1413889697659584514/1641570849/1500x500)
 
-<h3 align="center">I'm Anshuman Sathua a developer. I really enjoy learning new things about tech in general. I like how people are doing such amazing works in tech & someday i wanna be like those people. Thanks for dropping by have a good day😄</h3>
+<h3 align="center">Hi there!👋 <br> I'm Anshuman Sathua a developer. I really enjoy learning new things about tech in general. I like how people are doing such amazing works in tech & someday i wanna be like those people. Thanks for dropping by have a good day😄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu-21&label=Profile%20views&color=0e75b6&style=flat" alt="anshu-21" /> </p>
 
