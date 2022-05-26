@@ -1,6 +1,6 @@
 ![Banner](https://pbs.twimg.com/profile_banners/1413889697659584514/1641570849/1500x500)
 
-<h3 align="center">Hi there!👋 <br> I'm Anshuman Sathua a developer. I really enjoy learning new things about tech in general. I like how people are doing such amazing works in tech & someday i wanna be like those people. Thanks for dropping by have a good day😄</h3>
+<h3 align="center">Hi there!👋 <br> I'm Anshu a developer. I really enjoy learning new things about tech in general. I like how people are doing such amazing works in tech & someday i wanna be like those people. Thanks for dropping by have a good day😄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu-21&label=Profile%20views&color=0e75b6&style=flat" alt="anshu-21" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **co.anshu@gmail.com**
 
-- ⚡ Fun fact **I can play on low FPS**
+- ⚡ Fun fact **I can cook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,14 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshu-21&show_icons=true&locale=en" alt="anshu-21" /></p>
 
-<!--### Hey there!👋
-
-I'm Anshuman Sathua a developer. I really enjoy learning new things about tech in general. I like how people are doing such amazing works in tech & someday i wanna be like those people. Thanks for dropping by have a good day😄
-
-Skills: C++/HTML/CSS/JavaScript
-
-- 🌱 I’m currently learning Web Devlopment  
-- 🏆 future goal is to get into opensource communities and explore things that i'm passionate about.
+<!--
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anshu-21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/anshu21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/i_m_anshu_) 
