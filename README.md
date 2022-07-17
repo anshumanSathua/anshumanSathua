@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node**
 
-- 💬 Ask me about **C++, JavaScript, HTML and CSS**
+- 💬 Ask me about **JavaScript, Node, React**
 
 - 📫 How to reach me **co.anshu@gmail.com**
 
