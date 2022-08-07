@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu-21&label=Profile%20views&color=0e75b6&style=flat" alt="anshu-21" /> </p>
 
-- 🔭 I’m currently working on **a TV Show Search App**
+- 🔭 I’m currently working on **a note taking app with React**
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently exploring **React**
 
 - 💬 Ask me about **JavaScript, Node, React**
 
 - 📫 How to reach me **co.anshu@gmail.com**
 
-- ⚡ Fun fact **I can cook**
+- ⚡ Fun fact **I love cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
