@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu-21&label=Profile%20views&color=0e75b6&style=flat" alt="anshu-21" /> </p>
 
-- 🔭 I’m currently working on **API**
+- 🔭 I’m currently working on **API and Asynchronous javascript**
 
 - 🌱 I’m currently exploring **React**
 
