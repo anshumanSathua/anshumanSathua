@@ -47,7 +47,7 @@ I am a Full Stack Developer with experience building efficient and responsive we
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Sumitmaithani&limit=5&theme=light&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=anshu-21&limit=5&theme=light&combine_all_yearly_contributions=true)
 
 [![Anshuman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshu-21&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
 
