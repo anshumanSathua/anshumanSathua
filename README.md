@@ -2,7 +2,7 @@
 
 ## Hi, I am Anshuman! Great to see you here! 👋
 
-I am a Full Stack Developer with experience building efficient and responsive web projects. I enjoy learning new things about tech in general. I am always open to collaborating on projects and innovative/disruptive ideas. I like how people are doing such amazing works in tech & someday i wanna be like those people. Find out more about me & feel free to connect with me here:
+I'm an experienced Full Stack Developer specializing in creating efficient and responsive web projects. I have a passion for continuously expanding my knowledge in the ever-evolving tech industry. I'm actively seeking collaboration opportunities on innovative and disruptive projects. I'm inspired by the incredible achievements in the tech world and aspire to contribute to this field in meaningful ways. To learn more about me or connect, feel free to reach out here:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i_m_anshu_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-sathua/)
