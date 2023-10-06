@@ -29,7 +29,7 @@ I'm an experienced Full Stack Developer specializing in creating efficient and r
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+<!---![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)-->
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -47,10 +47,10 @@ I'm an experienced Full Stack Developer specializing in creating efficient and r
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=anshu-21&limit=5&theme=light&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=anshumanSathua&limit=5&theme=light&combine_all_yearly_contributions=true)
 
-[![Anshuman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshu-21&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anshuman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshumanSathua&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshu-21&show_icons=true&locale=en&layout=compact" alt="anshu-21" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshumanSathua&show_icons=true&locale=en&layout=compact" alt="anshumanSathua" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshu-21&show_icons=true&locale=en" alt="anshu-21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumanSathua&show_icons=true&locale=en" alt="anshumanSathua" /></p>
