@@ -6,7 +6,7 @@ I'm an experienced Full Stack Developer specializing in creating efficient and r
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i_m_anshu_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-sathua/)
-[![Gmail Badge](https://img.shields.io/badge/-co.anshu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumitco.anshumaithani824@gmail.com)](mailto:co.anshu@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-co.anshu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:co.anshu@gmail.com)](mailto:co.anshu@gmail.com)
 
 ## ⚡ Technologies
 
